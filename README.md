@@ -12,7 +12,7 @@
   <p align="center">
     A Clash of Kings
     <br />
-    <a href="https://github.com/EpitechPromo2026/B-CNA-500-MAR-5-1-neuralnetwork-hugo.des-mares-de-trebons"><strong>Explore the docs »</strong></a>  <!-- lien vers github page -->
+    <a href="https://hugo-dmdt.github.io/"><strong>Explore the docs »</strong></a>  <!-- lien vers github page -->
     <br />
   </p>
 </div>
@@ -111,7 +111,7 @@ Otherwise get the latest version on [Python official website](https://www.python
 
 That's it ! You're ready to give a try to the MyTorch project by yourself !
 
-Have a look to the [Documentation](https://github.com/EpitechPromo2026/B-CNA-500-MAR-5-1-neuralnetwork-hugo.des-mares-de-trebons?tab=readme-ov-file#usage) for more information on how the program runs.
+Have a look to the [Documentation](https://hugo-dmdt.github.io/#usage) for more information on how the program runs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
